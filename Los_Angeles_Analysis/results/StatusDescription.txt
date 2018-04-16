@@ -1,0 +1,6 @@
+Adult Arrest,175309
+Adult Other,193870
+Invest Cont,1322608
+Juv Arrest,13458
+Juv Other,4265
+UNK,31
